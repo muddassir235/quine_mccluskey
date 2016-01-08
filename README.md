@@ -1,4 +1,4 @@
-# quine_mccluskey
+# Quine Mccluskey
 An Implementation of the "Quine Mccluskey Algorithm" for simplifying Boolean expressions.
 
 | A | B | F |
