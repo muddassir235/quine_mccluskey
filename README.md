@@ -13,3 +13,6 @@ B) Enter the minterms: e.g. the above table has three minterms
                                a) 01 = 1                                                                                                      
                                b) 10 = 2                                                                                                            
                                c) 11 = 3                                                                                                                
+#Run the Code:
+
+To do a quick run of this open this link in your browser http://cpp.sh/6alf
